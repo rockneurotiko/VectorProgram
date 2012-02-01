@@ -1,0 +1,39 @@
+Wellcome to the Vector Program README!
+
+First of all say that it were one of my first programs and projects.
+
+This project it's writed in Python, that awesome language.
+
+The GUI it's builded in TKinter, so, you will need that library :)
+
+You will need the library math, but it comes with python, so it wouldn't be a problem.
+
+-------------------------
+
+I know, that there is a lot of programs with the functions I give, but
+almost they are so dificult.
+
+With this program, I want to give to the students or professionals, a fast
+tool to operate with two tridimensional vectors (or bidimensional, putting the last one 0).
+
+You just have to execute it, put the vectors, and push the button, you will have solutions fast.
+
+Why someone would want that?
+
+It's simple, the idea comes from the GNU/Linux system, the idea it's to have so many tools,
+that tools are simple, but makes his work really nice, think about a shell command, concatenate
+with pipes, you are just using a lot of little programs, but every little program makes what it should do.
+
+So...
+
+Nothing more, feel free to upgrade that tool :)
+
+------------------------
+
+Have a nice operates!
+
+-----------------------
+
+
+GNU-GPL v3.
+Rock Neurotiko
